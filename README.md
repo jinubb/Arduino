@@ -12,4 +12,4 @@ Tinkercad 웹사이트를 이용한 아두이노 코딩
 ![image](https://user-images.githubusercontent.com/53621550/103549485-cd620900-4eea-11eb-84b0-4dec42c58300.png)
 
 ### [세부내용]  
-- [docment](https://github.com/jinubb/Arduino/blob/main/Term%20project/Term%20Project%20_%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EB%A7%88%EC%9A%B0%EC%8A%A4.docx)
+- [docment](https://github.com/jinubb/Arduino/tree/main/Term%20project)
